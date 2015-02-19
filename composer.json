@@ -1,26 +1,17 @@
 {
-    "name": "behance/api-network",
+    "name": "behance/api-network/koken",
     "description": "Simply connect to the Behance Network using PHP and cURL",
     "keywords": ["behance","api"],
     "homepage": "http://github.com/behance/network_api_php",
     "type": "library",
     "license": "MIT",
-    "authors": [
+    "author": [
         {
-            "name": "Bryan Latten",
-            "email": "latten@adobe.com",
-            "homepage": "http://twitter.com/bryanlatten"
+            "name": "Heeby",
+            "email": "admin@heeby.ru",
+            "homepage": "http://twitter.com/LizaMarkovna"
         },
-        {
-            "name": "Michael Klein",
-            "email": "klein@adobe.com",
-            "homepage": "https://twitter.com/mikeklein13"
-        },
-        {
-            "name": "Mark Dunphy",
-            "email": "dunphy@adobe.com",
-            "homepage": "https://twitter.com/dunphtastic"
-        }
+      
     ],
     "require": {
         "php": ">=5.3.3",
@@ -33,3 +24,4 @@
         "psr-4": {"Behance\\": "src/"}
     }
 }
+
